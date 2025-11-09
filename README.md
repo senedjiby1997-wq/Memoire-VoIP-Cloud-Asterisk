@@ -71,7 +71,7 @@ Protocole VoIP	SIP, RTP, PJSIP
 Langages / Outils	Linux CLI, Vim, SSH, AWS Console
 Téléphones IP / Softphones	Zoiper, Linphone
 Supervision	Wireshark, sngrep
-###### 🧠 Résumé technique
+# 🧠 Résumé technique
 
 Ce mémoire démontre comment :
 
@@ -83,7 +83,7 @@ La virtualisation des services de communication réduit les coûts et simplifie 
 
 L’utilisation d’AWS EC2 garantit la scalabilité et la disponibilité du service.
 
-###### 📈 Résultats attendus
+## 📈 Résultats attendus
 
 Appels internes et externes fonctionnels via PJSIP
 
@@ -93,7 +93,7 @@ Communication stable avec une faible latence
 
 Documentation complète de l’architecture et des configurations
 
-###### 📚 Références principales
+### 📚 Références principales
 
 Stallings, W. (2013). Foundations of Modern Networking: SDN, NFV, QoE, IoT, and Cloud. Addison-Wesley.
 
@@ -103,9 +103,9 @@ Amazon Web Services. (2023). AWS Architecture Center. https://aws.amazon.com/arc
 
 RFC 3261 – SIP: Session Initiation Protocol. Internet Engineering Task Force (IETF).
 
-##🧾 Auteur
+## 🧾 Auteur
 
-Djiby SENE
+Djiby SENE-Ingenieur en reseau et telecommunication  
 Master 2 – Électronique, Systèmes et Télécommunications
 📍 Sénégal
-✉️ senedjiby1995@gmail.com
+✉️ senedjiby1997@gmail.com / djiby5.sene@ucad.edu.sn
