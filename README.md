@@ -2,8 +2,8 @@
 
 Auteur : Djiby SENE
 Niveau : Master 2 – Électronique, Systèmes et Télécommunications
-Université : UCAO – Unité de Formation et de Recherche en Sciences et Technologies
-Année académique : 2024–2025
+Université Cheikh Anta Diop de Dakar faculte des sciences et technologiques  departement de physique  – Unité de Formation et de Recherche en Sciences et Technologies
+Année académique : 2022–2023
 
 ## 🎯 Objectif du projet
 
